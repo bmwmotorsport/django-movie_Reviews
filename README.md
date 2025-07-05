@@ -58,6 +58,12 @@ python manage.py startapp mApp
 python manage.py migrate
 ```
 
+### 6. if env is not able activate
+
+```bash
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+```
+
 > 📌 If you make changes to `models.py`:
 ```bash
 python manage.py makemigrations
