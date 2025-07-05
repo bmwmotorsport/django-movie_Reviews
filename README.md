@@ -109,7 +109,7 @@ Included `django-romil.jpg` shows a sample of the home page UI.
 
 ## ✍️ Author
 
-Developed by [Your Name].
+Developed by Romil.
 
 ---
 
