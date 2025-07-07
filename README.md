@@ -51,6 +51,7 @@ django-admin startproject movie
 cd movie
 python manage.py startapp mApp
 ```
+### then add app to settings.py
 
 ### 5. Apply Migrations
 
